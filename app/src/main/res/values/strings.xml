@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">FlashCardProject</string>
+
+    <string name="question_label">Question</string>
+    <string name="question_hint">Enter the question</string>
+    <string name="answer_label">Answer</string>
+    <string name="answer_hint">Enter the answer</string>
+    <string name="card_stats">Card Statistics</string>
+
+    <string name="starred_label">Starred</string>
+    <string name="new_card">New Flashcard</string>
+    <string name="practice">Practice</string>
+
+    <string name="curr_question">Is this the current question?</string>
+    <string name="testing_label">TESTING</string>
+
+    <string name="stat_wrong">Times Wrong: %1$d</string>
+    <string name="stat_asked">Times Asked: %1$d</string>
+    <string name="stat_percent">Percent Right: %1$.2f%%</string>
+    <string name="no_percent">Percent Right: N/A</string>
+    <string name="def_button">ok</string>
+</resources>
